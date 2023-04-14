@@ -1,0 +1,17 @@
+[
+    {
+        "Action": "Rephrase",
+        "ProcessName": "Notepad",
+        "PromptPrefix": "Rephrase this:"
+    },
+    {
+        "Action": "Refactor",
+        "ProcessName": "vscode",
+        "PromptPrefix": "Refactor this:"
+    },
+    {
+        "Action": "Translate",
+        "ProcessName": "Notepad",
+        "PromptPrefix": "Translate this:"
+    }
+]
